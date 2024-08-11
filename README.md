@@ -19,5 +19,5 @@
 <div> 
   <a href="https://www.youtube.com/David Martins22" target="_blank"><img src="https://www.youtube.com/@DavidMartins_1904"></a>
   <a href="https://instagram.com/David Martins22" target="_blank"><img src="https://www.instagram.com/davidmartins017/" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://www.linkedin.com/in/david-botta-martins-jalles-1763a5266/"></a>
 </div>
