@@ -18,7 +18,6 @@
 ### Pra conteúdo de programação me segue 
  
 <div> 
-  <a href="https://instagram.com/David Martins22" target="_blank"><img src="" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="" target="_blank"></a>
+  <a href="https://instagram.com/David Martins22" target="_blank"><img src="https://www.instagram.com/" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank"></a>
 </div>
