@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is David and I'm a programador, from Front and</h2>
+<h2 align="left">Hi 👋! My name is David and I'm a ..., from ....</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/CBal.gif"/>
+<img align="right" height="150" src="https://i.gifer.com/8Rhr.gif"  />
 
 ###
 
