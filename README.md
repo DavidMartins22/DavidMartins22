@@ -1,7 +1,8 @@
 <h2 align="left">Olá 👋! Meu nome é David, estudante de Análise e Desenvolvimento de Sistemas (ADS)</h2>
-<p>🎓 Estudo na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>.<br>
-💻 Apaixonado por tecnologia, programação e desenvolvimento web.<br>
-📚 Atualmente focado em <strong>JavaScript, HTML, CSS e Python</strong>.</p>
+
+<p>🎓 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>.<br>
+💻 Apaixonado por tecnologia e pelo universo do desenvolvimento, com interesse em análise de dados, cibersegurança e inteligência artificial.<br>
+📚 No momento, focado em aprimorar minhas habilidades em <strong>JavaScript, HTML e CSS</strong>.</p>
 
 ---
 
@@ -29,7 +30,7 @@
 
 ### 🌐 Minhas redes
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge)](https://www.instagram.com/davidmartins017/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge)](Gmail:davidbottamartinsjalles@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge)](mailto:davidbottamartinsjalles@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge)](https://www.linkedin.com/in/david-botta-martins-jalles-1763a5266/)
 
 ---
