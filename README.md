@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋! Meu nome é David, estudante de Análise e Desenvolvimento de Sistemas (ADS)</h2>
 
 <p>🎓 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>.<br>
-💻 Apaixonado por tecnologia e pelo universo do desenvolvimento, com interesse em análise de dados, cibersegurança e inteligência artificial.<br>
+💻 Apaixonado por tecnologia e pelo universo do desenvolvimento, com interesse em Programação Front-End, cibersegurança e inteligência artificial.<br>
 📚 No momento, focado em aprimorar minhas habilidades em <strong>JavaScript, HTML e CSS</strong>.</p>
 
 ---
