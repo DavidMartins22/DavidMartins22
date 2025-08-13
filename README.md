@@ -5,7 +5,7 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p>
-Sou um profissional dedicado, com experiência em apoio operacional, serviços gerais e um interesse crescente — e apaixonado — pela área de tecnologia. Possuo formação em informática, análise de dados, cibersegurança e inteligência artificial, buscando constantemente aprimorar meus conhecimentos e ampliar minhas habilidades no setor tecnológico.
+Sou um profissional dedicado, com experiência em apoio operacional, serviços gerais e um interesse crescente — e apaixonado — pela área de tecnologia. Possuo formação em informática, cibersegurança e inteligência artificial, buscando constantemente aprimorar meus conhecimentos e ampliar minhas habilidades no setor tecnológico.
 </p>
 
 <p>
