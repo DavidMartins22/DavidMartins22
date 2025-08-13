@@ -1,8 +1,30 @@
 <h2 align="left">Olá 👋! Meu nome é David, estudante de Análise e Desenvolvimento de Sistemas (ADS)</h2>
 
-<p>🎓 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>.<br>
-💻 Apaixonado por tecnologia e pelo universo do desenvolvimento, com interesse em programação Front-End, cibersegurança e inteligência artificial.<br>
-📚 No momento, focado em aprimorar minhas habilidades em <strong>JavaScript, HTML e CSS</strong>.</p>
+
+<h3 align="center">✨ Sobre mim</h3>
+---
+
+<p align="center">
+💡 <em>Profissional dedicado, apaixonado por tecnologia e sempre em busca de evolução.</em>
+</p>
+
+<p>
+Sou um profissional dedicado, com experiência em apoio operacional, serviços gerais e um interesse crescente — e apaixonado — pela área de tecnologia. Possuo formação em informática, análise de dados, cibersegurança e inteligência artificial, buscando constantemente aprimorar meus conhecimentos e ampliar minhas habilidades no setor tecnológico.
+</p>
+
+<p>
+🎓 <strong>Formação Acadêmica:</strong> Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>, fortalecendo minha base acadêmica e prática.<br>
+💻 <strong>Interesses:</strong> Programação Front-End, Cibersegurança e Inteligência Artificial.<br>
+📚 <strong>Foco Atual:</strong> Aprimorar habilidades em <strong>JavaScript, HTML e CSS</strong>.
+</p>
+
+<p>
+Ao longo da minha trajetória, desenvolvi competências como pontualidade, comprometimento, trabalho em equipe e espírito empreendedor. Estou em constante evolução, aberto a novos desafios e oportunidades que me permitam crescer profissionalmente e contribuir de forma significativa para empresas e projetos.
+</p>
+
+<p>
+🚀 <strong>Objetivo:</strong> Aplicar meus conhecimentos, desenvolver novas competências e gerar valor, unindo experiência prática a uma sólida formação acadêmica e tecnológica.
+</p>
 
 ---
 
@@ -35,3 +57,4 @@
 ---
 
 ![Visitantes](https://komarev.com/ghpvc/?username=DavidMartins&color=blue&style=flat)
+&color=blue&style=flat)
