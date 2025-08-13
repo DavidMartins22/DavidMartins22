@@ -11,7 +11,7 @@ Sou um profissional dedicado, com experiência em apoio operacional, serviços g
 <p>
 🎓 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>, fortalecendo minha base acadêmica e prática.<br>
 💻 Apaixonado por tecnologia e pelo universo do desenvolvimento, com interesse em programação Front-End, cibersegurança e inteligência artificial.<br>
-📚 No momento, focado em aprimorar minhas habilidades em <strong>JavaScript, HTML e CSS</strong>.
+📚 No momento, focado em aprimorar minhas habilidades em <strong>JavaScript, HTML, CSS e Python</strong>.
 </p>
 
 <p>
