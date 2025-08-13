@@ -65,8 +65,8 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competên
 - **CSS** — estilo visual harmônico e responsivo.
 - **JavaScript** — lógica de filtragem dinâmica e interatividade.
 
-#### 📸 Demonstração:
-<img src="https://raw.githubusercontent.com/DavidMartins22/VerboIA/main/preview.gif" alt="Demonstração do VerboIA" width="500">
+#### Demonstração:
+<link rel="stylesheet" href="https://verbo-ia.vercel.app/">
 
 #### 🚀 Como executar:
 ```bash
