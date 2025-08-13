@@ -2,30 +2,24 @@
 
 
 
-<h3 align="center">✨ Sobre mim</h3>
-
----
-
-<p align="center">
-💡 <em>Profissional dedicado, apaixonado por tecnologia e sempre em busca de evolução.</em>
-</p>
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p>
 Sou um profissional dedicado, com experiência em apoio operacional, serviços gerais e um interesse crescente — e apaixonado — pela área de tecnologia. Possuo formação em informática, análise de dados, cibersegurança e inteligência artificial, buscando constantemente aprimorar meus conhecimentos e ampliar minhas habilidades no setor tecnológico.
 </p>
 
 <p>
-🎓 <strong>Formação Acadêmica:</strong> Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>, fortalecendo minha base acadêmica e prática.<br>
-💻 <strong>Interesses:</strong> Programação Front-End, Cibersegurança e Inteligência Artificial.<br>
-📚 <strong>Foco Atual:</strong> Aprimorar habilidades em <strong>JavaScript, HTML e CSS</strong>.
+🎓 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Universidade Cruzeiro do Sul Virtual</a>, fortalecendo minha base acadêmica e prática.<br>
+💻 Apaixonado por tecnologia e pelo universo do desenvolvimento, com interesse em programação Front-End, cibersegurança e inteligência artificial.<br>
+📚 No momento, focado em aprimorar minhas habilidades em <strong>JavaScript, HTML e CSS</strong>.
 </p>
 
 <p>
-Ao longo da minha trajetória, desenvolvi competências como pontualidade, comprometimento, trabalho em equipe e espírito empreendedor. Estou em constante evolução, aberto a novos desafios e oportunidades que me permitam crescer profissionalmente e contribuir de forma significativa para empresas e projetos.
+Ao longo da minha trajetória, desenvolvi competências como pontualidade, comprometimento, trabalho em equipe e espírito empreendedor. Estou em constante evolução, aberto a novos desafios e oportunidades que me permitam crescer profissionalmente e contribuir de forma significativa para as empresas e projetos dos quais faço parte.
 </p>
 
 <p>
-🚀 <strong>Objetivo:</strong> Aplicar meus conhecimentos, desenvolver novas competências e gerar valor, unindo experiência prática a uma sólida formação acadêmica e tecnológica.
+Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competências e gerar valor, unindo minha experiência prática a uma sólida formação acadêmica e tecnológica, sempre guiado pela minha paixão por tecnologia.
 </p>
 
 ---
@@ -51,11 +45,35 @@ Ao longo da minha trajetória, desenvolvi competências como pontualidade, compr
 
 ---
 
-### 🌐 Minhas redes
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge)](https://www.instagram.com/davidmartins017/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge)](mailto:davidbottamartinsjalles@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge)](https://www.linkedin.com/in/david-botta-martins-jalles-1763a5266/)
+## ⭐ Projetos importantes
 
----
+### [🎴 VerboIAChrist](https://github.com/DavidMartins22/VerboIA)
 
-![Visitantes](https://komarev.com/ghpvc/?username=DavidMartins&color=blue&style=flat)
+[![GitHub Repo stars](https://img.shields.io/github/stars/DavidMartins22/VerboIA?style=social)](https://github.com/DavidMartins22/VerboIA/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/DavidMartins22/VerboIA?color=blue)](https://github.com/DavidMartins22/VerboIA/commits/main)
+[![GitHub language count](https://img.shields.io/github/languages/count/DavidMartins22/VerboIA?color=yellow)](https://github.com/DavidMartins22/VerboIA)
+
+**VerboIAChrist** é uma galeria interativa de cartas colecionáveis com temática divina, criada para organizar, filtrar e explorar cartas de diferentes categorias (Comum, Rara, Épica) com preços definidos.
+
+#### ✨ Funcionalidades:
+- **Filtros inteligentes** — selecione por categoria ou defina um preço máximo.
+- **Compra direta** — botão que redireciona para o WhatsApp para negociação rápida.
+- **Design responsivo** — interface intuitiva que funciona bem no celular e computador.
+
+#### 🛠 Tecnologias utilizadas:
+- **HTML** — estrutura e organização dos elementos.
+- **CSS** — estilo visual harmônico e responsivo.
+- **JavaScript** — lógica de filtragem dinâmica e interatividade.
+
+#### 📸 Demonstração:
+<img src="https://raw.githubusercontent.com/DavidMartins22/VerboIA/main/preview.gif" alt="Demonstração do VerboIA" width="500">
+
+#### 🚀 Como executar:
+```bash
+# Clone este repositório
+git clone https://github.com/DavidMartins22/VerboIA.git
+
+# Acesse a pasta do projeto
+cd VerboIA
+
+# Abra o arquivo index.html no navegador
