@@ -59,4 +59,3 @@ Ao longo da minha trajetória, desenvolvi competências como pontualidade, compr
 ---
 
 ![Visitantes](https://komarev.com/ghpvc/?username=DavidMartins&color=blue&style=flat)
-&color=blue&style=flat)
