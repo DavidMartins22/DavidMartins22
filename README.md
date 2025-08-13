@@ -1,7 +1,9 @@
 <h2 align="left">Olá 👋! Meu nome é David, estudante de Análise e Desenvolvimento de Sistemas (ADS)</h2>
 
 
+
 <h3 align="center">✨ Sobre mim</h3>
+
 ---
 
 <p align="center">
