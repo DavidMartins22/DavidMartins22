@@ -65,9 +65,6 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competên
 - **CSS** — estilo visual harmônico e responsivo.
 - **JavaScript** — lógica de filtragem dinâmica e interatividade.
 
-#### Demonstração:
-<link rel="stylesheet" href="https://verbo-ia.vercel.app/">
-
 #### 🚀 Como executar:
 ```bash
 # Clone este repositório
