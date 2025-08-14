@@ -31,6 +31,10 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competên
 
 ---
 
+### 📌 Objetivo 
+Meu Foco é aprender na prática o possivel para me tornar um desenvolvedor de suscesso, quero um dia migrar de carreira e me tornar um Dev Front-End Junior. Mas até lá irei me preparar e melhorar tanto meus código como também meus
+pensamentos em programação. Quero aprender a pensar como um programador não só programar ou virar dependende de IA.
+
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ### 💻 Tecnologias que uso
