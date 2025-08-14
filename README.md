@@ -37,6 +37,7 @@ Meu Foco é aprender na prática o possivel para me tornar um desenvolvedor de s
 pensamentos em programação. Quero aprender a pensar como um programador não só programar ou virar dependende de IA.
 </p>
 
+---
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ### 💻 Tecnologias que uso
