@@ -24,10 +24,6 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competên
 
 ---
 
-
-
----
-
 ### 📌 Objetivo 
 <p>
 Meu Foco é aprender na prática o possivel para me tornar um desenvolvedor de suscesso, quero um dia migrar de carreira e me tornar um Dev Front-End Junior ou me tornar um Desenvolvedor Python. Mas até lá vou me preparar e melhorar tanto meus código como também meus
