@@ -1,8 +1,7 @@
-<h1 align="left">Olá 👋! Meu nome é David, estudante de Análise e Desenvolvimento de Sistemas (ADS)</h1>
+# Olá 👋! Meu nome é David, estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 
-
-<h2 align="left">👨‍💻 Sobre mim</h2>
+### 👨‍💻 Sobre mim
 
 <p>
 Sou um profissional dedicado, com experiência em apoio operacional, serviços gerais e um interesse crescente — e apaixonado — pela área de tecnologia. Possuo formação em informática, cibersegurança e inteligência artificial, buscando constantemente aprimorar meus conhecimentos e ampliar minhas habilidades no setor tecnológico.
@@ -24,13 +23,6 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competên
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidMartins&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
-</div>
-
-___
-
 ### 📌 Objetivo 
 <p>
 Meu Foco é aprender na prática o possivel para me tornar um desenvolvedor de suscesso, quero um dia migrar de carreira e me tornar um Dev Front-End Junior ou me tornar um Desenvolvedor Python. Mas até lá vou me preparar e melhorar tanto meus código como também meus
@@ -38,6 +30,25 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 </p>
 
 ---
+
+### 🌐 Minhas Redes Sociais
+<div>
+  <a href="https://www.linkedin.com/in/david-botta-martins-jalles-1763a5266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/davidmartins017/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logo""></a>
+</div>
+
+---
+
+## ⚙️ Estatísticas GitHub
+
+<div align="center">
+  <a href="https://github.com/DavidMartins22">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidMartins22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMartins22&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
+---
+
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ### 💻 Tecnologias que estou aprendendo
