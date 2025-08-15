@@ -40,7 +40,7 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 ---
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-### 💻 Tecnologias que uso
+### 💻 Tecnologias que estou aprendendo
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -48,11 +48,13 @@ pensamentos em programação. Quero aprender a pensar como um programador.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
 </div>
 
 ---
 
-## ⭐ Projetos importantes
+## ⭐ Projeto importante
 
 ### [🎴 VerboIAChrist](https://github.com/DavidMartins22/VerboIA)
 
