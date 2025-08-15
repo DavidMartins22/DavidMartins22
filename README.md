@@ -25,8 +25,8 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver novas competên
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidMartins&layout=compact&theme=dracula" height="150" alt="Linguagens mais usadas" />
 </div>
 
 ---
