@@ -39,7 +39,8 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 ### Pontos aprendidos 
 1. Como usar o Git e o GitHub para o mesmo propósito.
 2. Como pensar como umm hacker e as aplicações tipó o Hidra entre outros.
-3. A estrutura básica de um bom HTML e formações. Faceis de ler e de entender. 
+3. A estrutura básica de um bom HTML e formações. Faceis de ler e de entender.
+4. Como entender e fazer um bom prompt para a IA sem ter complicações.
 ---
 
 ### 🌐 Minhas Redes Sociais
