@@ -30,6 +30,10 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 </p>
 
 ---
+### Certificações
+
+
+---
 
 ### 🌐 Minhas Redes Sociais
 <div>
