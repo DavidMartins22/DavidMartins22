@@ -31,9 +31,9 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 
 ---
 ### 📜 Certificações
-Curso de Analista de Cibersegurança - IPED
-Estruturando seu HTML + Formatações - DIO
-Versionamento de Código com Git e GitHub - DIO
+1. Curso de Analista de Cibersegurança - IPED
+2. Estruturando seu HTML + Formatações - DIO
+3. Versionamento de Código com Git e GitHub - DIO
 
 ### Pontos aprendidos 
 1. Como usar o Git e o GitHub para o mesmo propósito.
