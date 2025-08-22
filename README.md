@@ -31,16 +31,16 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 
 ---
 ### 📜 Certificações
-- ##Curso de Analista de Cibersegurança## - IPED
-- ##Estruturando seu HTML + Formatações## - DIO
-- ##Versionamento de Código com Git e GitHub## - DIO
-- ##Inteligência Artificial## - HashTag Treinamentos 
+- **Curso de Analista de Cibersegurança** - IPED
+- **Estruturando seu HTML + Formatações** - DIO
+- **Versionamento de Código com Git e GitHub** - DIO
+- **Inteligência Artificial** - HashTag Treinamentos 
 
 ### 🧠 Pontos aprendidos 
-1. Como usar o Git e o GitHub para o mesmo propósito.
-2. Como pensar como um hacker usando os aplicativos Hidra entre outros.
-3. A estrutura básica de um bom HTML e formações. Faceis de ler e de entender.
-4. Como entender e fazer um bom prompt para a IA sem ter complicações.
+- **Como usar o Git e o GitHub para o mesmo propósito.**
+- **Como pensar como um hacker usando os aplicativos Hidra entre outros.**
+- **A estrutura básica de um bom HTML e formações. Faceis de ler e de entender.**
+- **Como entender e fazer um bom prompt para a IA sem ter complicações.**
 ---
 
 ### 🌐 Minhas Redes Sociais
