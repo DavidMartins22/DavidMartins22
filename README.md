@@ -75,6 +75,8 @@ pensamentos em programação. Quero aprender a pensar como um programador.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img width="12" />
 </div>
 
 ---
