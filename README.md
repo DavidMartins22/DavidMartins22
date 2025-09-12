@@ -55,7 +55,7 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 
 <div align="center">
   <a href="https://github.com/DavidMartins22">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidMartins22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?      username=DavidMartins22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMartins22&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
@@ -72,6 +72,8 @@ pensamentos em programação. Quero aprender a pensar como um programador.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   <img width="12" />
 </div>
 
