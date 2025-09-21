@@ -34,7 +34,8 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 - **Curso de Analista de Cibersegurança** - IPED
 - **Estruturando seu HTML + Formatações** - DIO
 - **Versionamento de Código com Git e GitHub** - DIO
-- **Inteligência Artificial** - HashTag Treinamentos 
+- **Inteligência Artificial** - HashTag Treinamentos
+- **Fundamentos do PHP** - TreinaWeb
 
 ### 🧠 Pontos aprendidos 
 - **Como usar o Git e o GitHub para o mesmo propósito.**
