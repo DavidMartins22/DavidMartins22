@@ -42,6 +42,7 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 - **Como pensar como um hacker usando os aplicativos Hidra entre outros.**
 - **A estrutura básica de um bom HTML e formações. Faceis de ler e de entender.**
 - **Como entender e fazer um bom prompt para a IA sem ter complicações.**
+- **Entender como funciona o PHP e como usar ele Ex: <?php**
 ---
 
 ### 🌐 Minhas Redes Sociais
