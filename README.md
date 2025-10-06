@@ -36,6 +36,7 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 - **Versionamento de Código com Git e GitHub** - DIO
 - **Inteligência Artificial** - HashTag Treinamentos
 - **Fundamentos do PHP** - TreinaWeb
+- **Fundamentos de Programação: Algoritmos**
 
 ### 🧠 Pontos aprendidos 
 - **Como usar o Git e o GitHub para o mesmo propósito.**
@@ -43,6 +44,7 @@ pensamentos em programação. Quero aprender a pensar como um programador.
 - **A estrutura básica de um bom HTML e formações. Faceis de ler e de entender.**
 - **Como entender e fazer um bom prompt para a IA sem ter complicações.**
 - **Entender como funciona o PHP e como usar ele Ex: <?php**
+- **Com o Curso de algoritmo aprendi como pensar um sistema como criar pseudocódigo e entender**
 ---
 
 ### 🌐 Minhas Redes Sociais
