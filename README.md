@@ -79,19 +79,13 @@ Até lá, sigo me preparando diariamente, aprimorando tanto meu código quanto m
 </div>
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DavidMartins22&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMartins22&layout=compact&theme=dark" 
-    height="170"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMartins22&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMartins22&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
+
 
     
 ---
