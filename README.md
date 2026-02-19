@@ -81,10 +81,9 @@ Até lá, sigo me preparando diariamente, aprimorando tanto meu código quanto m
 ---
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DavidMartins22&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidMartins22&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidMartins22&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidMartins22&theme=tokyonight)
     
 ---
 
