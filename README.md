@@ -46,13 +46,12 @@ Até lá, sigo me preparando diariamente, aprimorando tanto meu código quanto m
 ---
 
 ## 📜 Certificações
-
-- **Curso de Analista de Cibersegurança** — IPED  
-- **Estruturando seu HTML + Formatações** — DIO  
 - **Versionamento de Código com Git e GitHub** — DIO  
 - **Inteligência Artificial** — Hashtag Treinamentos  
 - **Fundamentos do PHP** — TreinaWeb  
 - **Fundamentos de Programação: Algoritmos**
+- **Programação Web (Intermediário)** - Curso em Vídeo
+- **Java Script (Básico)** - IFMG
 
 ---
 
