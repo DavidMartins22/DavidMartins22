@@ -57,12 +57,12 @@ Até lá, sigo me preparando diariamente, aprimorando tanto meu código quanto m
 
 ## 🧠 Conhecimentos Desenvolvidos 
 
-- Versionamento de código utilizando **Git e GitHub**
-- Estruturação de HTML semântico, organizado e de fácil leitura
-- Noções de segurança ofensiva e análise utilizando ferramentas como Hydra
-- Criação de prompts estruturados para Inteligência Artificial
-- Fundamentos da linguagem PHP e sua sintaxe básica
-- Desenvolvimento de lógica de programação, pseudocódigo e pensamento computacional
+- Versionamento de código utilizando **Git e GitHub**.
+- Estruturação de HTML semântico, organizado e de fácil leitura.
+- Noções de segurança ofensiva.
+- Criação de prompts estruturados para Inteligência Artificial.
+- Fundamentos da linguagem PHP e sua sintaxe básica.
+- Desenvolvimento de lógica de programação, pseudocódigo e pensamento computacional.
 
 ---
 
